@@ -1,0 +1,5 @@
+W Pythonie można tworzyć funkcje.
+W Pythonie można korzystać z różnych typów danych, takich jak liczby, napisy i listy.
+W Pythonie można używać warunków i pętli do sterowania przepływem programu.
+W Pythonie można obsługiwać błędy i wyjątki za pomocą instrukcji try-except.
+W Pythonie można pracować z plikami, czytając i zapisując dane.

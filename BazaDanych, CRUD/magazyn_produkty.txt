@@ -1,0 +1,9 @@
+Laptop
+2500.0
+10
+Smartphone
+1200.0
+20
+Tablet
+800.0
+15

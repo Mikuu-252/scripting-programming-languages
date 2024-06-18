@@ -1,0 +1,10 @@
+print('Jak masz na imie')
+imie = input()
+print(imie+' podaj swoje nazwisko')
+nazwisko = input()
+print(imie+' podaj swoj pesel')
+pesel=input()
+while len(str(pesel)) != 9:
+    print('Niepoprawna dlugosc peselu')
+    pesel = input()
+print('Uzytkownik: '+imie+' '+nazwisko+' o nr pesel: '+pesel)

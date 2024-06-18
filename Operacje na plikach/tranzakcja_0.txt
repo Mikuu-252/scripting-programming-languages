@@ -1,0 +1,4 @@
+Transakcja nr. 0 
+ Pesel: 100 
+ Saldo przed: 100 
+ Saldo po: 60
